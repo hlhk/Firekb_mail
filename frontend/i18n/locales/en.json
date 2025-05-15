@@ -1,6 +1,6 @@
 {
   "app": {
-    "title": "ZMAIL-24h Anonymous Email"
+    "title": "Firekb Email"
   },
   "common": {
     "loading": "Loading...",
@@ -20,10 +20,7 @@
     "failed": "Failed",
     "unknown": "Unknown",
     "empty": "No data",
-    "blog": "Blog",
-    "youtube": "YouTube",
-    "xugouMonitor": "Xugou Monitor"
-  },
+      },
   "mailbox": {
     "createRandom": "Create Random Mailbox",
     "createCustom": "Create Custom Mailbox",
