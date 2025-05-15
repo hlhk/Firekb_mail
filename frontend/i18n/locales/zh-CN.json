@@ -1,6 +1,6 @@
 {
   "app": {
-    "title": "ZMAIL-24小时匿名邮箱"
+    "title": "Firekb专用邮箱"
   },
   "common": {
     "loading": "加载中...",
@@ -20,11 +20,8 @@
     "failed": "失败",
     "unknown": "未知",
     "empty": "暂无数据",
-    "blog": "博客",
-    "youtube": "油管频道",
-    "xugouMonitor": "xugou监控"
-  },
-  "mailbox": {
+      },
+    "mailbox": {
     "createRandom": "创建随机邮箱",
     "createCustom": "创建自定义邮箱",
     "address": "邮箱地址",
